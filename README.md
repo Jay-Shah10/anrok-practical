@@ -11,6 +11,7 @@ Craete an account with Stripe. This will be out main billing service. This syste
 * [Customer](https://stripe.com/docs/api/customers)
 * [Product](https://stripe.com/docs/api/products)
 * [Price](https://stripe.com/docs/api/prices)
+* [Stripe documentation](https://stripe.com/docs/payments/checkout/taxes?tax-calculation=tax-rates)
 
 
 ## Anrok
@@ -18,6 +19,7 @@ Platform used to keep track of all sales taxes for all the products offered. Few
 
 * [Integration with Stripe Guide](https://help-center.anrok.com/hc/en-us/articles/17604840278675-Integrate-Anrok-Stripe)
 * [Anrok API Guide](https://apidocs.anrok.com/#section/API-reference)
+* [Anrok Tutorial](https://apidocs.anrok.com/tutorials/)
 
 
 ### Requirements: 
