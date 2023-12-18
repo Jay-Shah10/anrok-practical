@@ -11,6 +11,7 @@ Craete an account with Stripe. This will be out main billing service. This syste
 * [Customer](https://stripe.com/docs/api/customers)
 * [Product](https://stripe.com/docs/api/products)
 * [Price](https://stripe.com/docs/api/prices)
+* [Stripe documentation](https://stripe.com/docs/payments/checkout/taxes?tax-calculation=tax-rates)
 
 
 ## Anrok
